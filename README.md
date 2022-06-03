@@ -1,1 +1,2 @@
-# java
+# java -version
+#dir
